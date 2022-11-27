@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @1SrD, my name is Dervis and i want to learn more about programing and work in!
-- 👀 I’m interested in cibersecurity and I.A.
+- 👀 I’m interested in cibersecurity and A.I.
 - 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on projects to learn more!
 - 📫 You can reach me in my Linkedin: https://www.linkedin.com/in/demuca/
