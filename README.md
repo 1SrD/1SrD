@@ -1,21 +1,25 @@
-# ¡Hola! 👋 Soy Dervis
+<h1>¡Hola! 👋 Soy Dervis</h1>
 
-🎓 Estudiante de ASIR (Administración de Sistemas Informáticos en Red)  
-🔐 Apasionado por la ciberseguridad, especialmente el pentesting y el mundo del hacking ético  
-🚀 Estoy en proceso de aprendizaje y práctica, y este perfil es mi diario de progreso
+<p><strong>🎓 Estudiante de ASIR (Administración de Sistemas Informáticos en Red)</strong><br>
+<strong>🔐 Apasionado por la ciberseguridad, especialmente el pentesting y el hacking ético</strong><br>
+<strong>🚀 En proceso de aprendizaje constante</strong>, este perfil sirve como mi diario de progreso.</p>
 
-## 📌 ¿Qué encontrarás aquí?
+<hr>
 
-- Máquinas resueltas de plataformas como **Hack The Box**, **TryHackMe**, etc.
-- Notas personales de aprendizaje sobre herramientas como `nmap`, `Burp Suite`, `Metasploit`, `Gobuster`, `SQLmap`, etc.
-- Scripts útiles y pequeños labs para practicar vulnerabilidades
-- Mis progresos, errores, descubrimientos y soluciones ✍️
+<h2>📌 ¿Qué encontrarás aquí?</h2>
+<ul>
+  <li>Máquinas resueltas en plataformas como <strong>Hack The Box</strong>, <strong>TryHackMe</strong>, etc.</li>
+  <li>Notas personales de aprendizaje sobre herramientas como <strong>nmap</strong>, <strong>Burp Suite</strong>, <strong>Metasploit</strong>, <strong>Gobuster</strong>, <strong>SQLmap</strong>, entre otras.</li>
+  <li><strong>Scripts útiles</strong> y <strong>labs pequeños</strong> para practicar vulnerabilidades.</li>
+  <li>Mis <strong>progresos, errores, descubrimientos</strong> y <strong>soluciones</strong>. ✍️</li>
+</ul>
 
-## 🎯 Objetivo
+<hr>
 
-Mi objetivo es **aprender y crecer como profesional en ciberseguridad**, empezando por la práctica constante y compartiendo mis avances de forma pública.  
-No tengo experiencia profesional todavía, pero sí muchas ganas, constancia y compromiso.
+<h2>🎯 Objetivo</h2>
+<p>Mi objetivo es <strong>aprender y crecer como profesional en ciberseguridad</strong>, enfocándome en la práctica constante y compartiendo mis avances públicamente.  
+Aún no tengo experiencia profesional, pero tengo muchas <strong>ganas</strong>, <strong>constancia</strong> y <strong>compromiso</strong>.</p>
 
----
+<hr>
 
-📫 Si quieres hablar sobre ciberseguridad, máquinas, colaborar o compartir conocimiento, ¡escríbeme!
+<p><strong>📫 Si te interesa <strong>hablar sobre ciberseguridad</strong>, compartir conocimiento o colaborar en proyectos, ¡no dudes en escribirme! 🚀</strong></p>
